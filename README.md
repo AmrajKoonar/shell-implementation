@@ -1,2 +1,2 @@
-# shell_implementation
+# Shell Implementation
 Built a Unix shell in C with process execution, internal commands, history recall, and SIGINT handling.
